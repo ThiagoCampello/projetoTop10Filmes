@@ -1,5 +1,5 @@
 <h1 align="center">
-   <a href="https://thiagocampello.github.io/Soulcode/">
+   <a href="https://resplendent-llama-932327.netlify.app/">
 	<img alt="Logo" src="image/SoulCode.png" />
 	</a>
     <br>
@@ -55,9 +55,8 @@ Para clonar e executar este aplicativo, você precisará do Git instalado em seu
 
 ```bash
 # Clonar este repositório
-$ git clone https://github.com/ThiagoCampello/SoulCode.git
+$ git clone https://github.com/ThiagoCampello/projetoTop10Filmes.git
 # Entre no repositório
-$ cd HTML2
 # Vá para index.html
 # Clique com o botão direito nele
 # Executar com o Live Server
