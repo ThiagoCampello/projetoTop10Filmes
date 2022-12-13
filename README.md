@@ -1,6 +1,6 @@
 <h1 align="center">
-   <a href="https://thiagocampello.github.io/Soulcode/">
-	<img alt="Logo" src="Paginas/SoulCode.png" />
+   <a href="https://resplendent-llama-932327.netlify.app/">
+	<img alt="Logo" src="image/SoulCode.png" />
 	</a>
     <br>
 </h1>
@@ -20,7 +20,7 @@
 </p>
 
 <h4 align="center">
-  <p>Primeiro projeto em HTML</p>
+  <p>Top 10 filmes</p>
   
   <p>Desenvolvido durante o curso SalesForce da SoulCode.</p>
 
@@ -47,7 +47,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode acessar por aqui:
 
--  [Projeto HTML][demo]
+-  [Projeto Top 10 Filmes][demo]
 
 ## :information_source: Como utilizar
 
@@ -55,9 +55,8 @@ Para clonar e executar este aplicativo, você precisará do Git instalado em seu
 
 ```bash
 # Clonar este repositório
-$ git clone https://github.com/ThiagoCampello/SoulCode.git
+$ git clone https://github.com/ThiagoCampello/projetoTop10Filmes.git
 # Entre no repositório
-$ cd HTML2
 # Vá para index.html
 # Clique com o botão direito nele
 # Executar com o Live Server
@@ -70,4 +69,4 @@ $ cd HTML2
 [vc]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-[demo]: https://thiagocampello.github.io/Soulcode/
+[demo]: https://resplendent-llama-932327.netlify.app/index.html
