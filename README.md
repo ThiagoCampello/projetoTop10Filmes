@@ -1,6 +1,6 @@
 <h1 align="center">
    <a href="https://thiagocampello.github.io/Soulcode/">
-	<img alt="Logo" src="Paginas/SoulCode.png" />
+	<img alt="Logo" src="image/SoulCode.png" />
 	</a>
     <br>
 </h1>
