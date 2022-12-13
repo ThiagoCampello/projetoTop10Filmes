@@ -20,7 +20,7 @@
 </p>
 
 <h4 align="center">
-  <p>Primeiro projeto em HTML</p>
+  <p>Top 10 filmes</p>
   
   <p>Desenvolvido durante o curso SalesForce da SoulCode.</p>
 
@@ -47,7 +47,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode acessar por aqui:
 
--  [Projeto HTML][demo]
+-  [Projeto Top 10 Filmes][demo]
 
 ## :information_source: Como utilizar
 
