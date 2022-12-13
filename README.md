@@ -69,4 +69,4 @@ $ git clone https://github.com/ThiagoCampello/projetoTop10Filmes.git
 [vc]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-[demo]: https://thiagocampello.github.io/Soulcode/
+[demo]: https://app.netlify.com/sites/resplendent-llama-932327/deploys/
